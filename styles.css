@@ -1,0 +1,127 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 6400px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 6400px;
+	 z-index:1;
+} 
+
+ #HEADER 
+{ 
+	 left: 0px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 580px;
+	 z-index:2;
+} 
+
+ #LATESTNEWS 
+{ 
+	 left: -174px; 
+	 top: 648px; 
+	 position: absolute; 
+	 width: 1858px;
+	 height: 1172px;
+	 z-index:3;
+} 
+
+ #ADVERTISE1 
+{ 
+	 left: 339px; 
+	 top: 1861px; 
+	 position: absolute; 
+	 width: 1243px;
+	 height: 222px;
+	 z-index:4;
+} 
+
+ #MORESTORIESBACK 
+{ 
+	 left: 2px; 
+	 top: 2176px; 
+	 position: absolute; 
+	 width: 1918px;
+	 height: 1068px;
+	 z-index:5;
+} 
+
+ #MORESTORIES 
+{ 
+	 left: 103px; 
+	 top: 2221px; 
+	 position: absolute; 
+	 width: 1682px;
+	 height: 856px;
+	 z-index:6;
+} 
+
+ #ADVERTISE2 
+{ 
+	 left: 129px; 
+	 top: 3299px; 
+	 position: absolute; 
+	 width: 1671px;
+	 height: 222px;
+	 z-index:7;
+} 
+
+ #SLAPIFYBACK 
+{ 
+	 left: -1px; 
+	 top: 3600px; 
+	 position: absolute; 
+	 width: 1921px;
+	 height: 1421px;
+	 z-index:8;
+} 
+
+ #SLAPIFY 
+{ 
+	 left: 95px; 
+	 top: 3619px; 
+	 position: absolute; 
+	 width: 1366px;
+	 height: 400px;
+	 z-index:9;
+} 
+
+ #VIDEOZ 
+{ 
+	 left: 101px; 
+	 top: 5062px; 
+	 position: absolute; 
+	 width: 1649px;
+	 height: 616px;
+	 z-index:10;
+} 
+
+ #FOOTERBACK 
+{ 
+	 left: 0px; 
+	 top: 5943px; 
+	 position: absolute; 
+	 width: 1921px;
+	 height: 458px;
+	 z-index:11;
+} 
