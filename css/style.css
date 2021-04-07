@@ -77,6 +77,15 @@ margin:25px 0px;
 .advirtise-desc{
 	padding-left: 50px;
 }
+
+@media only screen and (max-width: 990px) {
+  .advirtise-desc{
+	padding-left: 0px;
+}
+.vedio-description-main{
+	padding:0px 0px;
+}
+}
 .advirtise-desc-inner{
 	background: black;
 	color: white;
